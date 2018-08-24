@@ -5,3 +5,6 @@ A react client application that uses web services to connect to Moodle API to fe
 
 ## Moodle API
 ![alt text](https://github.com/cvchakradharreddy/moodle-demo/blob/master/Moodle-API.PNG)
+
+#### Moodle Course creation
+[Moodle course creation steps guide](https://github.com/cvchakradharreddy/moodle-demo/blob/master/Moodle_course_structure.docx)
